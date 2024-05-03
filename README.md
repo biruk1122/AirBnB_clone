@@ -1,5 +1,4 @@
 AirBnB Clone - The Console
-
 Description of the Project
 
 An "AirBnB_clone" project is often a software development exercise or challenge where developers attempt to create a simplified version of the Airbnb platform. This type of project allows developers to practice and showcase their skills in web development, databases, user interfaces, and other related technologies.
